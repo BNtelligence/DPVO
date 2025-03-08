@@ -4,3 +4,6 @@
 [submodule "DBoW2"]
 	path = DBoW2
 	url = https://github.com/lahavlipson/DBoW2.git
+[submodule "DPViewer/pybind11"]
+	path = DPViewer/pybind11
+	url = https://github.com/pybind/pybind11.git
